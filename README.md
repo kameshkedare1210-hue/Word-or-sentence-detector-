@@ -62,7 +62,7 @@ or
 python -m pip install PyPDF2
 ```
 
-## ▶️ Running the Application
+# Running the Application
 
 Execute the Python file:
 
@@ -167,7 +167,7 @@ The following enhancements can be implemented in future versions:
 
 ---
 
-## 🎯 Learning Objectives
+# Learning Objectives
 
 This project was developed as a learning exercise to strengthen knowledge of:
 
