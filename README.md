@@ -1,6 +1,6 @@
 # Word Search System 
 
-## Overview
+# Overview
 
 The **Document Word Search System** is a beginner-friendly Python application that enables users to search for specific words within **Text (.txt)** and **PDF (.pdf)** documents. The application provides a simple graphical interface for selecting files and performs a case-insensitive search to locate the requested word.
 
