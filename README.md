@@ -1,5 +1,4 @@
 # Word-or-sentence-detector-
-# Document Word Search System
 
 ## Overview
 
